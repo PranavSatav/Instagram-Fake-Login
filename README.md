@@ -13,9 +13,9 @@ How to Configure Code Correctly -->
       
 3. Share the form Publically and get link
     (Link will look like this) 
-    docs.google.com/forms/d/e/ <THIS IS FORM CODE> /viewform?usp=sf_link 
+    docs.google.com/forms/d/e/ (THIS IS FORM CODE) /viewform?usp=sf_link 
   
-4. Replace the <THIS IS FORM CODE> of your form in source code > index.php  (LINE 65 in Source Code)
+4. Replace the (THIS IS FORM CODE) of your form in source code > index.php  (LINE 65 in Source Code)
   
 5. Open your Orignal Google Form > CTRL + U (Source Code) > CTRL + F (Find) > Find 'Username'
   - After Finding, see Right to it, a 'null,0' like this will exist, a code connected to it will exist too.
